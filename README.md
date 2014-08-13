@@ -1,4 +1,4 @@
-framework-java(Netty学习)
+netty-framework-java
 ==============
 
 using open source frameworks to make some an application skeleton, demo for guide.
